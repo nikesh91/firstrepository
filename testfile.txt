@@ -1,0 +1,8 @@
+create branch
+pull to local machine
+switch to the brach
+make changes
+stage the chnages
+push the changes from local to remote
+create pull request to merge with main.
+merge.
