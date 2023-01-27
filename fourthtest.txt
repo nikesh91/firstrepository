@@ -1,0 +1,10 @@
+make new beanch in GIT bash
+commands::
+
+git pull
+git checkout branchname
+make changes in local machine
+git add (.) or filename
+git commit
+git push
+then in git bash merge
